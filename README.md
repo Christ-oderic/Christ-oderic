@@ -25,7 +25,7 @@
 ### 🛠️ Mes technologies
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,cpp,js,vue,firebase,html,css,git,github" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,cpp,js,vue,firebase,html,css,git,github,angular,spring" />
 </p>
 
 ---
