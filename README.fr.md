@@ -22,7 +22,7 @@
   <a href="https://github.com/Christ-oderic?tab=repositories">
     <img src="https://img.shields.io/badge/D%C3%A9p%C3%B4ts-Voir%20tout-2E9EF7?style=for-the-badge&logo=github&logoColor=white" alt="Voir les dépôts GitHub" />
   </a>
-  <a href="https://ton-portfolio.com">
+  <a href="https://christ-oderic-portfolio.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Visiter-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <img src="https://img.shields.io/badge/CTO-NAKA%20Africa-2E9EF7?style=for-the-badge" alt="CTO at NAKA Africa" />
@@ -160,7 +160,7 @@ Je participe à la conception et au développement de l’écosystème NAKA :
 ## 📫 Contact & Liens
 
 <p>
-  <a href="https://ton-portfolio.com">
+  <a href="https://christ-oderic-portfolio.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Visiter-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/christoderic">
